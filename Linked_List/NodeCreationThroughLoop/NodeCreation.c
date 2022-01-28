@@ -14,7 +14,6 @@ void linklistTraversal(struct Node *ptr){
     }
 }
 
-
 struct Node * InsetionLinkList(struct Node * head, int val){
     struct Node * MadeNode;
     MadeNode = (struct Node*)malloc(sizeof(struct Node));
