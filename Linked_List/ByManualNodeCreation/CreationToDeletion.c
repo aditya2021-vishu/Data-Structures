@@ -143,6 +143,7 @@ int main(){
     linklistTraversal(head);
 
 
+    
     printf("after this we will code to delete an node from linklist\n");
     
     printf("deleting first node in linklist\n");
