@@ -6,7 +6,6 @@ struct Node{
     struct Node* next;
 };
 
-
 void linklistTraversal(struct Node *ptr){
     while(ptr != NULL){
         printf("Element: %d\n",ptr->data);
