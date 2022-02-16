@@ -12,6 +12,7 @@ void linklistTraversal(struct Node *ptr){
     }
 }
 
+
 struct Node * insertATFirst(struct Node * head,int data){
     struct Node* ptr;
     ptr = (struct Node*)malloc(sizeof(struct Node));
